@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: vl4ab53ua-dotnet-basic-gitops-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/vl4ab53ua-dotnet-basic-gitops
